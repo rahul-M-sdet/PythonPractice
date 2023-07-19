@@ -1,0 +1,5 @@
+2023-02-07 12:33:24,349 :INFO :pytestLearning.BaseClass :Rahul
+2023-02-07 12:33:24,349 :INFO :pytestLearning.BaseClass :87rhlmishra@gmail.com
+2023-02-07 12:33:24,363 :INFO :pytestLearning.test_log :Some info to be printed
+2023-02-07 12:33:24,363 :ERROR :pytestLearning.test_log :A major error has happened.
+2023-02-07 12:33:24,364 :CRITICAL :pytestLearning.test_log :Something went wrong

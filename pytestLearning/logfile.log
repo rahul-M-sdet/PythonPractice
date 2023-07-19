@@ -1,0 +1,14 @@
+2023-01-18 17:47:16,115 :ERROR :pytestLearning.test_log :A major error has happened.
+2023-01-18 17:47:16,115 :CRITICAL :pytestLearning.test_log :Something went wrong
+2023-01-18 17:50:42,852 :INFO :pytestLearning.test_log :Some info to be printed
+2023-01-18 17:50:42,852 :ERROR :pytestLearning.test_log :A major error has happened.
+2023-01-18 17:50:42,853 :CRITICAL :pytestLearning.test_log :Something went wrong
+2023-01-18 19:09:45,677 :INFO :pytestLearning.BaseClass :Rahul
+2023-01-18 19:09:45,677 :INFO :pytestLearning.BaseClass :87rhlmishra@gmail.com
+2023-01-18 19:16:48,955 :INFO :pytestLearning.BaseClass :Rahul
+2023-01-18 19:16:48,956 :INFO :pytestLearning.BaseClass :87rhlmishra@gmail.com
+2023-01-18 19:28:10,762 :INFO :pytestLearning.BaseClass :Rahul
+2023-01-18 19:28:10,762 :INFO :pytestLearning.BaseClass :87rhlmishra@gmail.com
+2023-01-18 19:28:10,771 :INFO :pytestLearning.test_log :Some info to be printed
+2023-01-18 19:28:10,771 :ERROR :pytestLearning.test_log :A major error has happened.
+2023-01-18 19:28:10,771 :CRITICAL :pytestLearning.test_log :Something went wrong
